@@ -3,6 +3,10 @@ This app allows users to configure a TensorFlow model with various parameters, p
 ![image](https://github.com/user-attachments/assets/1e33baf7-887e-49b6-b878-c8b506e3d7e5)
 
 
+
+![image](https://github.com/user-attachments/assets/6d532304-4e77-4315-9fd6-8a2a552cb1e0)
+
+
 Below are the key parameters you can customize:
 
 ## Parameters
@@ -23,6 +27,8 @@ You can access and use the app through the following link: Hugging Face App Link
 
 # 2. Deep Neural Network Explorer
 Deep Neural Network Explorer is an intuitive tool designed for exploring and experimenting with various deep neural network configurations tailored for classification tasks. The app enables users to visualize training progress, and evaluate model performance, making it ideal for both educational purposes and model prototyping.
+![image](https://github.com/user-attachments/assets/0fff295b-2c23-44a5-9830-a704a91b99eb)
+
 
 ## Key Features and Parameter Descriptions
 **Problem  Type** Specially designed for linear and ,non linear datasets , allowing users to configure the learning process to suit their specific dataset.
