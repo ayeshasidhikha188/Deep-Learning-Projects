@@ -79,7 +79,7 @@ Required libraries: TensorFlow, Keras, NumPy, Pandas, Matplotlib
 * Post-training, the app provides visual and numerical insights into model accuracy, loss trends, and other metrics.
 * Comparative graphs help in evaluating different configurations and tuning decisions.
 
-# Explore the App with Your Own Data
+# Explore the App with  Data
 Try the app with different datasets on Hugging Face: Explore Deep Neural Network Explorer(https://huggingface.co/spaces/Ayesha188/Optimized_Neural_Network_Framework)
 # Watch the App in Action
 See how the app works by watching this video: Video Demonstration (https://drive.google.com/file/d/11N9Zt6CJWQDevjBjjvTp_K71yMCkuZoY/view?usp=sharing)
